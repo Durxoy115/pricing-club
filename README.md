@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Pricing club
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live site link [Pricing club] (https://cool-chimera-e26c9e.netlify.app/)
 
 ## Available Scripts
 
